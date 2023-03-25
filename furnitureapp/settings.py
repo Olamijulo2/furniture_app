@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-cnxy_pg&harq^=!c90w*o61*nwisx(%m2mo!x@4m@%s@#re6k2
 # DEBUG = True
 DEBUG = False
 
-ALLOWED_HOSTS = ['13.51.45.24']
+ALLOWED_HOSTS = ['16.16.75.252']
 
 
 # Application definition
